@@ -1,0 +1,24 @@
+li button {
+  font-weight: 700;
+  color: #0ea5fd;
+}
+
+.about-us-section table {
+  font-family: "Times New Roman";
+  font-size: 22px;
+}
+.about-us-section table th, .about-us-section table td {
+  color: antiquewhite;
+}
+.about-us-section table th {
+  vertical-align: middle;
+  text-align: center;
+}
+.about-us-section table td {
+  vertical-align: middle;
+}
+.about-us-section table td ul {
+  padding: 0 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
